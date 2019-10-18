@@ -3,7 +3,7 @@
 ## second heading
 ###### smallest heading
 
-**hello world**
+_hello world_
 
 Demo Git Flow
 
